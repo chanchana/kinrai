@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/kinrai/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/kinrai/static/js/main.065de63b.chunk.js",
-    "main.js.map": "/kinrai/static/js/main.065de63b.chunk.js.map",
+    "main.js": "/kinrai/static/js/main.aca742f4.chunk.js",
+    "main.js.map": "/kinrai/static/js/main.aca742f4.chunk.js.map",
     "runtime-main.js": "/kinrai/static/js/runtime-main.ddb58f0c.js",
     "runtime-main.js.map": "/kinrai/static/js/runtime-main.ddb58f0c.js.map",
-    "static/js/2.de74c0be.chunk.js": "/kinrai/static/js/2.de74c0be.chunk.js",
-    "static/js/2.de74c0be.chunk.js.map": "/kinrai/static/js/2.de74c0be.chunk.js.map",
+    "static/js/2.b3782e36.chunk.js": "/kinrai/static/js/2.b3782e36.chunk.js",
+    "static/js/2.b3782e36.chunk.js.map": "/kinrai/static/js/2.b3782e36.chunk.js.map",
     "index.html": "/kinrai/index.html",
-    "precache-manifest.3a83e09493cd263cabb45b036ed03519.js": "/kinrai/precache-manifest.3a83e09493cd263cabb45b036ed03519.js",
+    "precache-manifest.d0ea2c699981c236c2fa6d291b854fd6.js": "/kinrai/precache-manifest.d0ea2c699981c236c2fa6d291b854fd6.js",
     "service-worker.js": "/kinrai/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/kinrai/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.de74c0be.chunk.js.LICENSE.txt": "/kinrai/static/js/2.de74c0be.chunk.js.LICENSE.txt"
+    "static/js/2.b3782e36.chunk.js.LICENSE.txt": "/kinrai/static/js/2.b3782e36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ddb58f0c.js",
-    "static/js/2.de74c0be.chunk.js",
+    "static/js/2.b3782e36.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.065de63b.chunk.js"
+    "static/js/main.aca742f4.chunk.js"
   ]
 }
