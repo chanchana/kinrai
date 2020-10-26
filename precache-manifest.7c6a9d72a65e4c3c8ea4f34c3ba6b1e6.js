@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94f4e7fc5b1f63efa8f5ae576cce11b5",
+    "revision": "15d356068231926bcd9392bee0e332ca",
     "url": "/kinrai/index.html"
   },
   {

@@ -2,6 +2,7 @@
  "name": "Kinrai",
  "display": "fullscreen",
  "background_color": "#ffffff",
+ "theme_color": "#ffffff",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
