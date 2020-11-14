@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b5177355870f3110c3861676fbad6cb",
+    "revision": "817d83be6c08aa43ca27262052fc3bde",
     "url": "/kinrai/index.html"
   },
   {
-    "revision": "5a75846ffc9f7936d265",
+    "revision": "925b2b0defa12a8ffa11",
     "url": "/kinrai/static/css/main.dc7b4f7b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kinrai/static/js/2.8b9fdb95.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a75846ffc9f7936d265",
-    "url": "/kinrai/static/js/main.48ece7b7.chunk.js"
+    "revision": "925b2b0defa12a8ffa11",
+    "url": "/kinrai/static/js/main.5e371613.chunk.js"
   },
   {
     "revision": "8ab74a7877fab7835b61",
